@@ -10,27 +10,27 @@ Do you want to see this native bridge in action? Check our demo creating a marke
 <table>
   <tr>
     <td>
-      <img src="img/home.png" width="300">
+      <img src="https://github.com/proyecto26/react-native-mercado-pago-enterprise/blob/master/img/home.png?raw=true" width="300">
     </td>
     <td>
-      <img src="img/mercado-home.png" width="300">
+      <img src="https://github.com/proyecto26/react-native-mercado-pago-enterprise/blob/master/img/mercado-home.png?raw=true" width="300">
     </td>
     <td>
-      <img src="img/mercado-card.png" width="300">
+      <img src="https://github.com/proyecto26/react-native-mercado-pago-enterprise/blob/master/img/mercado-card.png?raw=true" width="300">
     </td>
     <td>
-      <img src="img/mercado-doc.png" width="300">
+      <img src="https://github.com/proyecto26/react-native-mercado-pago-enterprise/blob/master/img/mercado-doc.png?raw=true" width="300">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="img/mercado-pay.png" width="300">
+      <img src="https://github.com/proyecto26/react-native-mercado-pago-enterprise/blob/master/img/mercado-pay.png?raw=true" width="300">
     </td>
     <td>
-      <img src="img/menu.png" width="300">
+      <img src="https://github.com/proyecto26/react-native-mercado-pago-enterprise/blob/master/img/menu.png?raw=true" width="300">
     </td>
     <td>
-      <img src="img/store.png" width="300">
+      <img src="https://github.com/proyecto26/react-native-mercado-pago-enterprise/blob/master/img/store.png?raw=true" width="300">
     </td>
     <td>
       <!-- <img src="img/mercado-pay.png" width="200"> -->
