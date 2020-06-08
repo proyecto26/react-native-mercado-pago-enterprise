@@ -193,7 +193,7 @@ async startPayment() {
 - Test the integration: https://www.mercadopago.com.co/developers/en/guides/marketplace/web-checkout/testing-marketplace/
   
 ## Enterprise Support 💼
-Save time, reduce risk, and improve code health! You can find commercial support and maintenance in the Open Source repository for this plugin [here](https://github.com/proyecto26/react-native-mercado-pago-enterprise).
+Save time, reduce risk, and improve code health! You can find commercial support and maintenance in the Open Source repository for this plugin [here](https://github.com/proyecto26/react-native-mercado-pago-enterprise/issues).
   
 ## Happy coding 💯
 Made with ❤️
