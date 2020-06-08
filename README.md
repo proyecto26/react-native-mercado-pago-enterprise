@@ -1,6 +1,6 @@
 
 # MercadoPago for React Native (Enterprise)
-A native brigde to use Mercado Pago [Mobile Checkout](https://www.mercadopago.com.co/developers/en/guides/payments/mobile-checkout/introduction/) with React Native (Android & iOS) by using Java and Objective-C.
+A native bridge to use Mercado Pago [Mobile Checkout](https://www.mercadopago.com.co/developers/en/guides/payments/mobile-checkout/introduction/) with React Native (Android & iOS) by using Java and Objective-C.
 Based on our successful Open Source plugin; [InAppBrowser for React Native](https://github.com/proyecto26/react-native-inappbrowser).
 
 ## Demo 🎮
@@ -37,6 +37,9 @@ Do you want to see this native bridge in action? Check our demo creating a marke
     </td>
   </tr>
 </table>
+
+## Buy
+You can buy this product [here](https://gum.co/react-native-mercado-pago).
 
 ## Usage 📖
 
