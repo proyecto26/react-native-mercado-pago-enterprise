@@ -103,6 +103,10 @@ Linking the package manually is not required anymore with [Autolinking](https://
       ...
       tools:replace="android:allowBackup">
   ```
+  
+#### Using React Native < 0.60
+
+`$ react-native link react-native-mercado-pago`
 
 ### Manual installation
 
