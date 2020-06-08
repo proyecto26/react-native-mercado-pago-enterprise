@@ -126,7 +126,7 @@ Linking the package manually is not required anymore with [Autolinking](https://
       implementation project(':react-native-mercado-pago')
   	```
 
-## Usage 🎉
+## Example 🎉
 
 ### Create your preference id
 ```shell
