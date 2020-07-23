@@ -40,6 +40,7 @@ Do you want to see this native bridge in action? Check our demo creating a marke
 
 ## Buy
 You can buy this product [here](https://gum.co/react-native-mercado-pago).
+**Enteprise** products are **free** for our **Sponsors**, check [here](https://github.com/proyecto26/sponsors).
 
 ## Usage 📖
 
