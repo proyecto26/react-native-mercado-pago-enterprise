@@ -1,5 +1,10 @@
 
 # MercadoPago for React Native (Enterprise)
+
+<p align="center">
+  <img src="img/insignia.png" width="120" alt="MercadoPago Certified" />
+</p>
+
 A native bridge to use Mercado Pago [Mobile Checkout](https://www.mercadopago.com.co/developers/en/guides/payments/mobile-checkout/introduction/) with React Native (Android & iOS) by using Java and Objective-C.
 Based on our successful Open Source plugin; [InAppBrowser for React Native](https://github.com/proyecto26/react-native-inappbrowser).
 
