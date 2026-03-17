@@ -203,8 +203,23 @@ async startPayment() {
 - Test the integration: https://www.mercadopago.com.co/developers/en/guides/marketplace/web-checkout/testing-marketplace/
   
 ## Enterprise Support 💼
-Save time, reduce risk, and improve code health! You can find commercial support and maintenance in the Open Source repository for this plugin [here](https://github.com/proyecto26/react-native-mercado-pago-enterprise/issues).
-  
+
+This is an **enterprise product** — free for [Proyecto 26 sponsors](https://proyecto26.com/sponsors/).
+
+### Get Support
+- **Discord**: Join our [#enterprise-mercadopago](https://discord.gg/MvBK46bC33) channel for dedicated support, feature requests, and direct access to the maintainer
+- **Issues**: Report bugs and request features on [GitHub Issues](https://github.com/proyecto26/react-native-mercado-pago-enterprise/issues)
+- **Sponsors**: Get priority support and access to the private repository with full source code at [proyecto26.com/sponsors](https://proyecto26.com/sponsors/)
+
+### What Sponsors Get
+- Access to the **private repository** with full source code (`react-native-mercado-pago`)
+- Priority bug fixes and feature requests
+- Direct support via Discord private channels
+- 1-on-1 meetings with the maintainer (Heroes tier+)
+
+[![Become a Sponsor](https://img.shields.io/badge/Become%20a-Sponsor-f2385a?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/proyecto26)
+[![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MvBK46bC33)
+
 ## Happy coding 💯
 Made with ❤️
 
